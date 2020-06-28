@@ -1,0 +1,2 @@
+C:\Users\jefri\Desktop\pkp-project\code\detect-filename-block\Debug\detect-filename-block.sys
+C:\Users\jefri\Desktop\pkp-project\code\detect-filename-block\Debug\detect-filename-block.pdb
