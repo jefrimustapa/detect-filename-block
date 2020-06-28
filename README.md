@@ -3,7 +3,7 @@
 ## DESCRIPTION
   - minifilter driver example to monitor pre-determined directory in root volume (volume where OS boot),
   - detect if filename transfer to that directory contains pre determined text
-  - block the transaction, if both 
+  - block the transaction, if both terms are met
 
 ## HOW TO INSTALL
 ### using inf
