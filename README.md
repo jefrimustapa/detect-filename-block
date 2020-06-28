@@ -6,20 +6,20 @@ DESCRIPTION
   - block the transaction, if both 
 
 HOW TO INSTALL
-  a. using inf
+  - using inf
     - locate the inf file included in specific release for your OS version. right click and choose install
-  b. using pnputil + inf
+  - using pnputil + inf
     - run this in commandline 
       pnputil /add-driver <inf-path> /install
       
 HOW TO START & STOP 
-  start
+  - start
     - run this in command line
-      sc start detect-filename-block
+      - sc start detect-filename-block
       
-  stop
+  - stop
     - run this in command line
-      sc stop detect-filename-block
+      - sc stop detect-filename-block
       
 HOW TO MONITOR LOG
-  use DebugView (https://docs.microsoft.com/en-us/sysinternals/downloads/debugview)
+  - use DebugView (https://docs.microsoft.com/en-us/sysinternals/downloads/debugview)
